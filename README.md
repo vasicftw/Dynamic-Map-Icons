@@ -1,7 +1,7 @@
 <b>ABOUT</b>
 
 This system presents small icons from singleplayer on mini-map (radar). Original version of this filterscript is on Serbian language. 
-I'm already released it to SA-MP Forum - https://forum.sa-mp.com/showthread.php?t=667860 
+I've already released it to SA-MP Forum - https://forum.sa-mp.com/showthread.php?t=667860 
 
 <b>HOW TO INSTALL</b>
     
